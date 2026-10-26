@@ -2,6 +2,11 @@
 
 An interactive browser-based manufacturing visual-inspection **simulation** by Marcus Faulkner. It demonstrates inspection flow, defect classification, PASS/FAIL decisions, yield tracking, and inspection logging without claiming to be a production computer-vision or machine-learning system.
 
+## Live Demo
+
+🚀 **[Launch the Automated Visual Inspection Simulator](https://marusfaulkner.github.io/automated-visual-inspection-simulator/)**
+
+Runs directly in your browser. No installation required.
 ## V1 features
 - Simulated inspection of manufactured parts
 - PASS, scratch, contamination, missing-feature, and shape-anomaly conditions
